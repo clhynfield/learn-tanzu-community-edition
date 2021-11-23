@@ -57,6 +57,9 @@ Login is required, but fortunately it allows login with GitHub! (Requires granti
 …And allowing cross-site tracking yields `misdirected request to "tce-workshops-w01-s3269.tce-vmworld.tanzu-dev.com"`.
 
 End of pomodoro!
+
+[try]: https://tanzu.vmware.com/developer/workshops/lab-tce-deploy/ (Deploying Apps and Microservices with Tanzu Community Edition)
+[dl]: https://tanzucommunityedition.io/download/ (Download – tanzucommunityedition.io)
 ***
 
 ### And we're in!
@@ -109,7 +112,9 @@ The workshop explains that there are two methods to building Kubernetes-centric 
 
 Between pomodoros, I was reflecting on user-centered design, and I thought it might be instructive to refine the charter a bit – if that's a thing, refining the charter after exploration has begun? – to discover *who* the value proposition of TCE is addressing. That might actually be at least strongly implicit in "value proposition", and I hope it's not stretching too far.
 
+Also, I took a bit of time in this pomodoro to move my notes from a draft in my go-to "start-typing" app [Drafts][] into a proper Git repository. I'm also trying to reaquaint myself with Git Time Metric, to see if it's valuable at all to help me track my time spent on things, though I wasn't able to figure out quickly how to add the first pomodoro I worked in Drafts :shrug:
 
-[try]: https://tanzu.vmware.com/developer/workshops/lab-tce-deploy/ (Deploying Apps and Microservices with Tanzu Community Edition)
-[dl]: https://tanzucommunityedition.io/download/ (Download – tanzucommunityedition.io)
+End of pomodoro! 
 
+[drafts]: https://getdrafts.com (Drafts – Where Text Starts)
+***
