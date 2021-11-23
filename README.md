@@ -4,20 +4,20 @@ For rationale, see [[Why we test-drive third-party software]] and [Charters: Exp
 
 ## Charter
 
-Explore Tanzu Community Edition (TCE)
-With iPad/MacBook and GCP
-To discover TCE's value proposition and intended behaviors
+Explore **Tanzu Community Edition** (TCE)  
+With **iPad/MacBook** and **GCP**  
+To discover **TCE's value proposition** and **intended behaviors**  
 
 ## Experience log
 
 DuckDuckGo finds [Tanzu Community Edition](https://tanzucommunityedition.io)
 
-Hero advertises
+The hero on the TCE main page advertises
 
 > **Experience VMware Tanzu now**
 > VMware Tanzu Community Edition is a full-featured, easy-to-manage Kubernetes platform for learners and users, especially those working in small-scale or preproduction environments
 
-TCE is for learners – we're in the right place! Also note that TCE is for small-scale or pre-prod, assuming not for mission-critical production use at scale.
+So TCE is for learners – we're in the right place! Also note that TCE is for small-scale or pre-prod, assuming not for mission-critical production use at scale.
 
 Two buttons to engage, [TRY IT OUT][try] and [DOWNLOAD][dl].
 
@@ -48,7 +48,7 @@ Further…
 > - Scale Applications
 > - Monitor Applications
 
-According to the workshop page, this should only take fifteen minutes!
+According to the workshop page, this should only take fifteen minutes – perfect to fit within a pomodoro!
 
 Login is required, but fortunately it allows login with GitHub! (Requires granting read-only access to the GitHub user's email) Hmm, and then it requires local registration with Tanzu Developer Center….
 
